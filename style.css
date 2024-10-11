@@ -1,12 +1,10 @@
-/* nav section  */
 @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
 
 * {
 
     box-sizing: border-box;
 }
-
-
+/* nav section  */
 body,html {
     margin: 0;
     padding: 0;
@@ -58,7 +56,6 @@ body,html {
 }
 
 /* background section */
-
 .backsection {
     background-image: url('./img/yassin/pic1.jpg');
     background-size: cover;
@@ -110,7 +107,6 @@ body,html {
 }
 
 /* talk with us section */
-
 .container {
     width: 100%;
     overflow: hidden;
@@ -169,23 +165,7 @@ body,html {
 }
 
 
-h1 {
-    color: #223366;
-    font-size: 32px;
-    text-align: center;
-}
-
-.subtitle {
-    color: #666;
-    margin-bottom: 30px;
-    font-size: 16px;
-    text-align: center;
-}
-
-/* the end of css section  */
-
-
-/* section 1  */
+/* top destinations section  */
 #top-destinations {
     text-align: center;
     padding: 50px;
@@ -245,7 +225,9 @@ h1 {
     font-size: 16px;
     padding-top: 40px; 
 }
-/* css code for the section 2 */
+
+
+/* how it works  */
 #how-it-works {
     text-align: center;
     padding: 50px; 
@@ -287,7 +269,8 @@ h1 {
     margin-bottom: 10px;
 }
 
-/* section 3 */
+
+/* our guides section  */
 
 #guides {
     text-align: center;
@@ -379,7 +362,7 @@ h1 {
 }
 
 
-/* section 4 : */
+/*  book a ticket section  : */
  #book {
     background-color: #f8F9Fa;
     padding: 60px 0;
@@ -465,7 +448,7 @@ h1 {
     }
  }
 
- /* footer :  */
+ /* footer section  :  */
 
  .footer {
     background-color: #f8F9Fa;
