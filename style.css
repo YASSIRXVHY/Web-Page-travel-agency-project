@@ -157,7 +157,6 @@ body,html {
 .discover-content {
     width: 55%;
     float: right;
-    display: inline-block;
 }
 
 .discover-item {
