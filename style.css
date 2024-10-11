@@ -7,12 +7,13 @@
 /* nav section  */
 body,html {
     margin: 0;
+    color: #333333;
     padding: 0;
     height: 100%;
     font-family: Arial, sans-serif;
 }
 .navbar {
-    background-color: white;
+    background-color: #f8f9fa;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     padding: 2rem 5%;
     overflow: hidden;
@@ -21,7 +22,7 @@ body,html {
     float: left;
     font-size: 1.5rem;
     font-weight: bold;
-    color: #535353;
+    color: #18204E;
     text-decoration: none;
 }
 .nav-links {
@@ -33,26 +34,26 @@ body,html {
 .nav-links a {
     float: left;
     display: block;
-    color: #a1a1a1;
+    color: #3A4CA1;
     text-align: center;
     padding: 0 1rem;
     text-decoration: none;
     font-size: 1.2rem;
 }
 .nav-links a:hover {
-    color: #000000;
+    color: #18204E;
 }
 .sign-up-btn {
     float: right;
-    background-color: #d8d7d7;
-    color: white;
+    background-color: #5C6BC0;
+    color: #FFFFFF;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     text-decoration: none;
     font-size: 1rem;
 }
 .sign-up-btn:hover {
-    background-color: #000000;
+    background-color: #18204E;
 }
 
 /* background section */
@@ -74,7 +75,7 @@ body,html {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(24, 32, 78, 0.6);
 }
 .backcontent {
     position: relative;
@@ -85,17 +86,18 @@ body,html {
 .backcontent h1 {
     font-size: 4rem;
     margin-bottom: 20px;
-    color: white;
+    color: #FFFFFF;
 }
 .backcontent p {
     font-size: 1.2rem;
     margin-bottom: 30px;
     line-height: 1.6;
+    color: #FFFFFF;
 }
 .ctabutton {
     display: inline-block;
-    background-color: #dc3545;
-    color: white;
+    background-color: #5C6BC0;
+    color: #FFFFFF;
     padding: 12px 30px;
     text-decoration: none;
     font-size: 1.1rem;
@@ -103,11 +105,10 @@ body,html {
     transition: background-color 0.3s ease;
 }
 .ctabutton:hover {
-    background-color: #c82333;
+    background-color: #3A4CA1;
 }
 
 /* talk with us section */
-/* General styles for the Discover section */
 .discover-section {
     text-align: center;
     padding: 50px 0;
@@ -125,7 +126,7 @@ body,html {
 .discover-description {
     font-family: "Poppins", sans-serif;
     font-size: 16px;
-    color: #6777B3;
+    color: #3A4CA1;
     margin-bottom: 40px;
     width: 60%;
     margin: auto;
@@ -135,6 +136,7 @@ body,html {
 .discover-container {
     width: 100%;
     overflow: auto;
+ 
 }
 
 /* Image styles */
@@ -167,6 +169,7 @@ body,html {
     margin-right: 2%;
 }
 
+
 .icon-container {
     width: 60px;
     height: 60px;
@@ -175,13 +178,15 @@ body,html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #18204E;
     border-radius: 25%;
 }
+
 
 .icon-container img {
     width: 30px;
     height: 30px;
+    color: white;
 }
 
 .discover-item h3 {
@@ -195,7 +200,7 @@ body,html {
 .discover-item p {
     font-family: "Poppins", sans-serif;
     font-size: 14px;
-    color: #6777B3;
+    color: #3A4CA1;
 }
 
 
@@ -250,14 +255,14 @@ body,html {
 .destinations-box h3 {
     position: absolute;
     top: 20px;  
-    color: #b35848;
+    color: #5C6BC0;
     font-size: 24px;
 }
 
 .destinations-box p {
     position: absolute;
     bottom: 20px; 
-    color: rgba(255, 255, 255, 0.849);
+    color: rgba(255, 255, 255, 0.9);
     font-size: 16px;
     padding-top: 40px; 
 }
@@ -301,7 +306,7 @@ body,html {
 .step-num {
     font-size: 36px;
     font-weight: bold;
-    color: #b35848;
+    color: #5C6BC0;
     margin-bottom: 10px;
 }
 
@@ -315,7 +320,7 @@ body,html {
 
 #guides h2 {
     font-size: 36px;
-    color: #2a2a2a;
+    color: #18204E;
     margin-bottom: 20px;
 }
 
@@ -361,7 +366,7 @@ body,html {
 
 .guide-box .role {
     font-size: 16px;
-    color: #b35848;
+    color: #5C6BC0;
     margin-bottom: 10px;
 }
 
@@ -379,7 +384,7 @@ body,html {
 }
 
 .social-links a:hover {
-    color: #b35848;
+    color: #5C6BC0;;
 }
 
 @media (max-width: 768px) {
@@ -400,7 +405,7 @@ body,html {
 
 /*  book a ticket section  : */
  #book {
-    background-color: #f8F9Fa;
+    background-color: #f8f9fa;
     padding: 60px 0;
 
  }
@@ -437,7 +442,7 @@ body,html {
 
  .discount h3 {
     font-size: 24px;
-    color: #b35848;
+    color: #5C6BC0;
     margin-bottom: 15px;
  }
 
@@ -464,8 +469,8 @@ body,html {
     float: left;
     width: 30%;
     padding: 10px;
-    background-color: #b35848;
-    color: white;
+    background-color: #5C6BC0;
+    color: #FFFFFF;
     border: none;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
@@ -489,7 +494,7 @@ body,html {
  .footer {
     background-color: #f8F9Fa;
     padding: 40px 0 20px;
-    color: #333;
+    color: #333333;
  }
 
  .container{
@@ -524,7 +529,7 @@ body,html {
 
  .links a {
     text-decoration: none;
-    color: #333;
+    color: #333333;
  }
 
  .social {
@@ -562,7 +567,7 @@ body,html {
 
  .buttomfooter a {
     text-decoration: none;
-    color: #333;
+    color: #333333;
     font-size: 14px;
  }
 
