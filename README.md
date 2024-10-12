@@ -38,8 +38,6 @@ The project is structured as follows:
 
 - **HTML5**: For the structure of the webpage.
 - **CSS3**: For styling and responsive design.
-- **JavaScript (optional)**: Add interactivity (if applicable).
-- **Font Awesome**: Icons for social media links.
 - **Unsplash**: For high-quality, royalty-free images.
 
 ---
