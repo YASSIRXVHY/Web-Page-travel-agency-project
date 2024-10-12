@@ -4,11 +4,6 @@
 
 Welcome to the MLL Travel Agency project! This website is designed to offer users an immersive experience in exploring travel destinations, connecting with travel guides, and booking exciting trips. It features an intuitive interface, mobile responsiveness, and a seamless user experience.
 
-## 🚀 Live Demo
-
-Check out the live demo of the project [here](#). *(Insert link once the site is deployed)*
-
----
 
 ## 📂 Project Structure
 
@@ -37,18 +32,7 @@ The project is structured as follows:
 
 ---
 
-## 📸 Screenshots
 
-### Home Page
-![Home](./img/screenshots/homepage.png)
-
-### Discover Section
-![Discover](./img/screenshots/discover-section.png)
-
-### Top Destinations
-![Top Destinations](./img/screenshots/top-destinations.png)
-
----
 
 ## 🛠️ Technologies Used
 
@@ -65,7 +49,7 @@ The project is structured as follows:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mll-agency.git
+   git clone https://github.com/YASSIRXVHY/Web-Page-travel-agency-project
    ```
 
 2. Navigate to the project directory:
@@ -103,8 +87,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions, feel free to reach out:
 
-- Email: your-email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](https://github.com/abdelhaymallouli)
 ```
 
 You can now copy and paste this into the `README.md` file of your GitHub repository. Make sure to replace the placeholders with your actual project information.
