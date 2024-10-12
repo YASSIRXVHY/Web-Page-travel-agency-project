@@ -75,11 +75,6 @@ Feel free to submit a pull request or open an issue if you have suggestions for 
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## 📧 Contact
 
@@ -88,4 +83,3 @@ For any questions, feel free to reach out:
 - GitHub: [@your-username](https://github.com/abdelhaymallouli)
 ```
 
-You can now copy and paste this into the `README.md` file of your GitHub repository. Make sure to replace the placeholders with your actual project information.
